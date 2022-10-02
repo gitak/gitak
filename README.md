@@ -11,7 +11,7 @@ github stat 관련
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitak&show_icons=true&theme=buefy" height=200 />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitak&theme=buefy" height=200 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitak&theme=buefy&layout=compact" height=200 />
 </a>
 
 
